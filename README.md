@@ -9,3 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me [mafromist](https://twitter.com/mafromist)
 - 😄 Hope you gonna have fun on my Github pages
 
+- :pill: My Life Motto is basic as below shown;
+##What I do generally in life
+
+![Life is easy like this](https://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif)
