@@ -3,10 +3,10 @@
 Here are some ideas to get you started:
 
 - 🔭  I’m currently working on being a Full-Stack Developer
-- 🌱  I’m currently learning **HTML, CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Express.js, Handlebars.js, MongoDB** and more coming;
-    - Databases - SQL
-    - Python
-    - Django
+- 🌱  I’m currently learning **HTML, CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Express.js, Handlebars.js, MongoDB, Databases - SQL, Python, Django ** and more coming;
+    - 11ty
+    - New CSS Frameworks
+    
 - :package: Currently I use these tools Mongo Atlas, Mongo Compass, GitKraken, VSCode, Slack, Discord, Moodle for team-work and learning 
 - 👯  I’m looking to collaborate on working on Beginner-Intermediate WebDev Projects
 - 💬  Ask me about whatever you are interested.
