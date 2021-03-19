@@ -8,7 +8,7 @@ Here are some ideas to get you started:
     - New CSS Frameworks
     
 - :package: Currently I use these tools Mongo Atlas, Mongo Compass, GitKraken, VSCode, Slack, Discord, Moodle for team-work and learning 
-- 👯  I’m looking to collaborate on working on Beginner-Intermediate WebDev Projects
+- 👯  I’m looking to collaborate on working on Web Dev Projects
 - 💬  Ask me about whatever you are interested.
 - 📫  How to reach me [mafromist](https://twitter.com/mafromist)
 - 😄  Hope you gonna have fun on my Github pages
