@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭  I’m currently working on being a Full-Stack Developer
-- 🌱  I’m currently learning **HTML, CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Express.js, Handlebars.js, MongoDB, Databases - SQL, Python, Django ** and more coming;
+- 🌱  I’m currently learning **HTML, CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Express.js, Handlebars.js, MongoDB, Databases - SQL, Python, Django** and more coming;
     - 11ty
     - New CSS Frameworks
     
