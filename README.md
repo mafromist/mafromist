@@ -2,12 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I’m currently working on being a Full-Stack Developer
-- 🌱  I’m currently learning **HTML, CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Express.js, Handlebars.js, MongoDB, Databases - SQL, Python, Django** and more coming;
-    - 11ty
-    - New CSS Frameworks
+Please check my latest works on <a href="https://github.com/mafromist/mafromist">muge.alevc</a>
+
+
+- 🔭  I’m currently working as a freelance Front-end Developer with having knowledge of some back-end technologies.
+- 🌱  I’m currently learning **HTML, CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Express.js, Handlebars.js, 11ty, MongoDB, Databases - SQL, Python, Django** and more coming;
     
-- :package: Currently I use these tools Mongo Atlas, Mongo Compass, GitKraken, VSCode, Slack, Discord, Moodle for team-work and learning 
+- :package: Currently I use these tools Mongo Atlas, Mongo Compass, GitKraken, GitKraken Boards, VSCode, Trello, Slack, Discord.
 - 👯  I’m looking to collaborate on working on Web Dev Projects
 - 💬  Ask me about whatever you are interested.
 - 📫  How to reach me [mafromist](https://twitter.com/mafromist)
