@@ -12,7 +12,7 @@ Please check my latest works on <a href="https://mugealev.com">mugealev.com</a>
 - 👯  I’m looking to collaborate on working on Web Dev Projects
 - 💬  Ask me about whatever you are interested.
 - 📫  How to reach me [mafromist](https://twitter.com/mafromist)
-- 😄  Hope you gonna have fun on my Github pages
+- 😄  Have a great day! Hope you gonna have fun on my Github pages
 
 ### What I do generally in life :pill:
 
