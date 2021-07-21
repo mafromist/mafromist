@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-Please check my latest works on <a href="https://mugealev.com">mugealev.com</a>
+Please check my latest CMS platform works on <a href="https://mugealev.com">mugealev.com</a>
 
 
 - 🔭  I’m currently working as a freelance Front-end Developer with having knowledge of some back-end technologies.
