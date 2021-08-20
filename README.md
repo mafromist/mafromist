@@ -6,7 +6,7 @@ Please check my latest CMS platform works on <a href="https://mugealev.com">muge
 
 
 - 🔭  I’m currently working as a freelance Front-end Developer with having knowledge of some back-end technologies.
-- 🌱  I’m currently working on projects with **HTML, CSS, Bootstrap 5, Bulma CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Mapbox.io**.
+- 🌱  I’m currently working on projects with **HTML, CSS, Bootstrap 5, Bulma CSS, Tailwind CSS, Git, JavaScript, Node.js, React.js, Mapbox**.
 - 🎗  I finished some projects with **Express.js, Handlebars.js, 11ty, MongoDB, Databases - SQL, Python, Django, WordPress, Shopify**
 - 👯  I’m looking to collaborate on working on Web Dev Projects
 - 💬  Ask me about whatever you are interested.
