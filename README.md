@@ -13,7 +13,7 @@ Please check my latest CMS platform works on <a href="https://mugealev.com">muge
 - 📫  How to reach me [mafromist](https://twitter.com/mafromist)
 - 😄  Have a great day! Hope you gonna have fun on my Github pages
 
-### What I do generally in life :pill:
+### What how I live the life :pill:
 
 ![Life is easy like this](https://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif)
 
