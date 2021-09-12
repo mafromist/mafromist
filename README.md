@@ -21,3 +21,7 @@ Please check my latest CMS platform works on <a href="https://mugealev.com">muge
 <a href="https://github.com/mafromist/mafromist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafromist&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mafromist.mafromist)
