@@ -9,7 +9,6 @@ Please check my latest CMS platform works on <a href="https://mugealev.com">muge
 - 🌱  I’m currently working on projects with **HTML, CSS, PHP, Tailwind CSS, JavaScript, Node.js, Vue, React, Mapbox**.
 - 🎗  I finished some projects with **Express.js, Handlebars.js, 11ty, MongoDB, Databases - SQL, Python, Django, WordPress, Shopify**
 - 💻  I’m working as a Junior Developer at Modern English.
-- 💬  Ask me about whatever you are interested.
 - 📫  How to reach me [mafromist](https://twitter.com/mafromist)
 - 😄  Have a great day! Hope you gonna have fun on my Github pages
 
