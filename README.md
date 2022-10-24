@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
-Please check my latest CMS platform works on <a href="https://mugealev.com">mugealev.com</a>
-
-
 - 🔭  I’m currently working as a Full-Stack Web Developer at Modern English..
 - 🌱  I’m currently working on projects with **HTML, CSS, PHP, JavaScript, Vue, React, Three.js, Tailwind CSS, Node.js, Mapbox**.
 - 🎗  I finished some projects with **Express.js, Handlebars.js, 11ty, MongoDB, Databases - SQL, Python, Django, WordPress, Shopify**
